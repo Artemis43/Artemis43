@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?Artemis43&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Artemis43&color=blue&style=flat-square)
